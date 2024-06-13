@@ -171,7 +171,7 @@ public class MinecraftBOT {
      * @return the host
      */
     public static String getHost() {
-        return HOST != null ? HOST : "127.0.0.1";
+        return HOST != null ? HOST : "stars_mc.aternos.me";
     }
 
     /**
@@ -180,7 +180,7 @@ public class MinecraftBOT {
      * @return the port
      */
     public static String getPort() {
-        return PORT != null ? PORT : "25565";
+        return PORT != null ? PORT : "32499";
     }
 
     /**
